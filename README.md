@@ -10,8 +10,8 @@
 1. **Get API Keys**
 
    Obtain API keys from:
-   - [OpenAI](https://www.openai.com/)
-   - [Exa](https://www.exa.com/)
+   - [OpenAI](https://platform.openai.com/)
+   - [Exa](https://dashboard.exa.ai/)
 
 2. **Add API Keys to `.env`**
 
